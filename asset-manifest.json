@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Nutrition/static/css/main.42a449d3.css",
+    "main.js": "/Nutrition/static/js/main.bb81768c.js",
+    "static/js/453.5129cfa7.chunk.js": "/Nutrition/static/js/453.5129cfa7.chunk.js",
+    "static/media/man.png": "/Nutrition/static/media/man.5eea0c6dae17eb52b12a.png",
+    "static/media/scooter.png": "/Nutrition/static/media/scooter.8017e76f7a7d5151aaca.png",
+    "static/media/veges.png": "/Nutrition/static/media/veges.fc7940b089ba84dbab33.png",
+    "static/media/file.png": "/Nutrition/static/media/file.d0b4752bbd01f6c9575b.png",
+    "static/media/Rx.png": "/Nutrition/static/media/Rx.820fadd0b91463ca326c.png",
+    "static/media/kaju.png": "/Nutrition/static/media/kaju.477d37c3823a7bdef0e4.png",
+    "index.html": "/Nutrition/index.html",
+    "main.42a449d3.css.map": "/Nutrition/static/css/main.42a449d3.css.map",
+    "main.bb81768c.js.map": "/Nutrition/static/js/main.bb81768c.js.map",
+    "453.5129cfa7.chunk.js.map": "/Nutrition/static/js/453.5129cfa7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42a449d3.css",
+    "static/js/main.bb81768c.js"
+  ]
+}
